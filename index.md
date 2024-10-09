@@ -63,36 +63,43 @@ La ASUS ROG Maximus Z790 Hero podría tomarse cómo ejemplo de una placa base mo
 
 ![Pin page](https://dlcdnwebimgs.asus.com/files/media/29C004F7-7B1F-4EBF-9099-7168B520A0EE/v1/img/kv/pd.png)
 
+##
+## Formatos
 
 
+Los principales Factores de Forma de las Placas Bases se pueden dividir en 5: 
+
+### 1. ATX (Advanced Technology eXtended):
+
+Es el factor de forma más común para placas base de escritorio. Introducido por Intel en 1995, el ATX 
+tiene un tamaño estándar de 305 × 244 mm. Ofrece suficiente espacio para múltiples ranuras de expansión (PCIe), 
+varios módulos de RAM y conectores adicionales para dispositivos como tarjetas gráficas y discos duros.
+
+Ideal para usuarios que buscan expandir y personalizar su sistema con facilidad, como en el caso de los equipos de gaming y estaciones de trabajo.
+
+## 2. Micro-ATX (mATX):
+
+Similar al ATX pero más compacto (244 × 244 mm), esta versión se diseñó para permitir más flexibilidad en gabinetes pequeños sin perder la compatibilidad con componentes de tamaño estándar.
+Tiene menos ranuras de expansión que ATX (generalmente 3 en lugar de 7) y está orientada a PCs domésticos y equipos de uso general que no requieren tantas opciones de expansión.
+
+## 3. Mini-ITX:
+
+Mucho más pequeña (170 × 170 mm), fue desarrollada por VIA Technologies para dispositivos compactos. A pesar de su tamaño reducido, ofrece soporte para componentes modernos como RAM DDR4 y PCIe, pero con un número limitado de puertos y ranuras.
+Se utiliza en configuraciones de equipos compactos (como HTPC o PCs de salón) y en proyectos donde el espacio es una limitación.
+
+![Pin page](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIA_Mini-ITX_Form_Factor_Comparison.jpg/400px-VIA_Mini-ITX_Form_Factor_Comparison.jpg) 
 
 
+## 4. E-ATX (Extended ATX):
 
-## [Top 4: Agent Orange (Sodom)](https://open.spotify.com/intl-es/album/0EH3qqOgIVirxuZnTTMG6G)
+Es una versión más grande del ATX (305 × 330 mm), orientada a entusiastas y estaciones de trabajo avanzadas que requieren espacio adicional para más módulos de RAM, múltiples tarjetas gráficas y opciones de refrigeración avanzada.
+Ideal para configuraciones de alto rendimiento o servidores pequeños que requieren más capacidad de expansión.
 
-Lanzado también en **1989**, es una **maravilla** del *Thrash Metal Alemán*. Con una fuerte **crítica** a la **guerra de vietnam** y al uso del pesticida conocido como *Agente Naranja* (el cual le da nombre al disco), destacan **Agent Orange** y **Ausgebombt.**
-
-![Pin page](https://i1.wp.com/www.scienceofnoise.net/wp-content/uploads/2019/06/468330a486e27c0026745c92e7ec1725.1000x1000x1.jpg)
-
-## [Top 3: Heaven&Hell (Black Sabbath)](https://open.spotify.com/intl-es/album/46gHYWaRr052RGEiL5Dg7T)
-
-Lanzado en **1980**, supuso el **cambio** de vocalista entre **Ozzy Osbourne** y el mítico **Ronnie James Dio**. Este cambio le dio una **atmósfera** más **oscura** y **melódica** al álbum, destacando temas como **Heaven and Hell** y **Die Young**. 
-
-![Pin page](https://m.media-amazon.com/images/I/61oYyNeJ7jS._AC_UF894,1000_QL80_.jpg)
-
-## [Top 2: IOWA (Slipknot)](https://open.spotify.com/intl-es/album/5Zs0mNCTs73CqPKbZPWFX9) 
-
-Inicialmente lanzado en 2001, se convirtió en un hito del Nu Metal junto a su precuela (Slipknot del 99). Con unas letras y sonido tan agresivos, destacan **Disasterpiece** y **Left Behind** . 
-
-![Pin page](https://i1.wp.com/www.scienceofnoise.net/wp-content/uploads/2021/04/iowa.jpg)
+![Pin page](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIA_Mini-ITX_Form_Factor_Comparison.jpg/400px-VIA_Mini-ITX_Form_Factor_Comparison.jpg) 
 
 
-## [Top 1: Dirt (Alice in Chains)](https://open.spotify.com/intl-es/album/58NXIEYqmq5dQHg9nV9duM) 
+## 5. Otros formatos (NLX, BTX, etc.):
 
-Lanzado en 1992, es simplemente una barbaridad de disco, una maravilla del Grunge. Definitivamente, hay que escucharlo por uno mismo para juzgar. Recomiendo de aquí **Them Bones** y **Down in a Hole**
+Aunque menos comunes, existen otros factores de forma como BTX (Balanced Technology eXtended) y NLX (New Low Profile eXtended), diseñados para mejorar el flujo de aire y el rendimiento térmico. Sin embargo, no tuvieron el mismo éxito comercial que los estándares ATX y sus variantes.
 
-![Dirt](https://m.media-amazon.com/images/I/81g0YcT68pL._UF894,1000_QL80_.jpg)
-
-## Aquí podreis escuchar las canciones
-
-[Pincha aquí](https://angelsito-cell.github.io/Albumes-Recomendados/index2) para escuchar todas las canciones recomendadas
+![Pin page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9L58EeWedgjmJezdUmm0MIllafVJFkVJGQ&s)
