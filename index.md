@@ -11,7 +11,7 @@ Hoy veremos su evolución, formatos y componentes de la misma
 
 Varios científicos de los laboratorios Bell presentan el transistor amplificador de punto contacto, iniciando con esto el desarrollo de la miniaturización de circuitos electrónicos.
 
-![Pin page](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11327574/image/c14b917ba3126c8407f2623fe3854222?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJB6ZCNNAN7BE7WDQ%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T152138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=24af5e1db7cdb81f672faeb600b2b30082cc6fb67f923ca8a1e1f282b9efc030)
+![Pin page](https://eswikipediaorgwikiplacabase.wordpress.com/wp-content/uploads/2018/10/cientificos.jpg?w=640)
 
 ## 1952 (Presentación)
 
